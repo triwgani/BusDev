@@ -15,3 +15,4 @@ Period of Service: March 2022 - March 2023
 ## Workflow & Deliveries
 
 ## Results
+Details on the Result is restricted only to certain purpose and based on [request](mailto:tri.wgani@gmail.com)
