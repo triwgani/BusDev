@@ -14,6 +14,14 @@ Healthcare, in essence, is about maintaining and improving people's health. It e
 
 ## Workflow & Deliveries
 
+| **FProject Life Cycle** | **Process Name** | **Inputs** |
+| ------ | ------ | ------ |
+| Initiation | Start - Desk Study - Gathering Supporting Information | Member/Non Member Data from Administration Service Only System and Internal Operation System. Other Info, Facts and Statistics from BPS, Eco Outlook, Report. Interview (Qualitative Data) from Physician or Project Site Coordinator. | 
+| Planning | Planning Presentation - Survey Preparation - Site Survey, Location Survey, Gathering Site Data - Data Processing, Summarize - Business Plan, Feasibility Study Generation & Presentation | Medical Equipments, Pharmacy Data, Recruitted Personnel Data |
+| Execution & Montoring | FID - Procurement, Construction, Hiring & Promotion - Monitoring Contruction - Opening | Medical Equipments, Pharmacy Data, Recruitted Personnel Data |
+| Closeout | Embracing Customer - Daily Operation | Existing ang New Customers |
+
+
 ## Results
 ### Outputs
 - Feasibility Study Report as an input for management to make an FID (Final Investment Decision)
