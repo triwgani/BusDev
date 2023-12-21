@@ -15,4 +15,11 @@ Period of Service: March 2022 - March 2023
 ## Workflow & Deliveries
 
 ## Results
-Details on the Result is restricted only to certain purpose and based on [request](mailto:tri.wgani@gmail.com)
+### Outputs
+- Feasibility Study Report as an input for management to make an FID (Final Investment Decision)
+- Business Plan for Clinic Development outside Jakarta, in this case Balikpapan.
+
+### Outcomes
+Opening branch clinic in Balikpapan provided to open new network, opportunities, and as a new revenue center in November 11th, 2022.
+
+Details on the Result (Outputs) is restricted only to certain purpose and based on [request](mailto:tri.wgani@gmail.com)
