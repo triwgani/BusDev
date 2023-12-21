@@ -29,6 +29,6 @@ Healthcare, in essence, is about maintaining and improving people's health. It e
 - Monthly and Final Project Report.
 
 ### Outcomes
-Opening branch clinic in Balikpapan provided to open new network, opportunities, and as a new revenue center in November 11th, 2022.
+Opening branch clinic in Balikpapan on November 11th, 2022 provided to open new network, opportunities, and as a new revenue center.
 
 Details on the Result (Outputs) is restricted only to certain purpose and based on [request](mailto:tri.wgani@gmail.com)
