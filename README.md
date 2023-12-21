@@ -12,14 +12,14 @@ Healthcare, in essence, is about maintaining and improving people's health. It e
 2. Developing and implementing business plan and timeline for Clinic development as well as making periodic  evaluation and report; collaborating with the Sales, Accounting, and other related parties in conducting the  Feasibility Study, analyzing the P&L (Profit & Loss) and Cash Flow, as well as providing the management of  Payback Period, CAPEX, and BEP as inputs for FID (Final Investment Decision) prior to opening Clinic.
 3. Leading an inter-department team in executing and facilitating the project for launching new Clinic in Balikpapan, and actively participating in maintaining a safe work environment, zero accidents and no-environmental pollution.
 
-## Workflow & Deliveries
+## Workflow
 
-| **FProject Life Cycle** | **Process Name** | **Inputs** |
+| **Project Life Cycle** | **Process Name** | **Inputs** |
 | ------ | ------ | ------ |
 | Initiation | Start - Desk Study - Gathering Supporting Information | Member/Non Member Data from Administration Service Only System and Internal Operation System. Other Info, Facts and Statistics from BPS, Eco Outlook, Report. Interview (Qualitative Data) from Physician or Project Site Coordinator. | 
 | Planning | Planning Presentation - Survey Preparation - Site Survey, Location Survey, Gathering Site Data - Data Processing, Summarize - Business Plan, Feasibility Study Generation & Presentation | Medical Equipments, Pharmacy Data, Recruitted Personnel Data |
 | Execution & Montoring | FID - Procurement, Construction, Hiring & Promotion - Monitoring Contruction - Opening | Medical Equipments, Pharmacy Data, Recruitted Personnel Data |
-| Closeout | Embracing Customer - Daily Operation | Existing ang New Customers |
+| Closeout | Embracing Customer - Daily Operation | Existing and New Customers |
 
 
 ## Results
