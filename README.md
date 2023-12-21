@@ -3,7 +3,7 @@
 ## Introduction
 Healthcare, in essence, is about maintaining and improving people's health. It encompasses a broad range of activities aimed at Preventing Ilness & Injuries, Diagnosing Disease, Providing Medical Treatment, Managing Cronic Conditions, as well as Providing Rehabilitation for individuals who suffer from ilness and injuries. Understanding healthcare is crucial for individuals, communities, and policymakers alike. It's about promoting optimal health and well-being, managing illness effectively, and ensuring equitable access to quality care for all.
 
-*Period of Service:* March 2022 - March 2023
+**Period of Service:** March 2022 - March 2023
 
 ## Role
 ### Business Development Jr. Manager
