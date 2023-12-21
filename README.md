@@ -24,8 +24,9 @@ Healthcare, in essence, is about maintaining and improving people's health. It e
 
 ## Results
 ### Outputs
-- Feasibility Study Report as an input for management to make an FID (Final Investment Decision)
+- Feasibility Study Report as an input for management to make an FID (Final Investment Decision).
 - Business Plan for Clinic Development outside Jakarta, in this case Balikpapan.
+- Monthly and Final Project Report.
 
 ### Outcomes
 Opening branch clinic in Balikpapan provided to open new network, opportunities, and as a new revenue center in November 11th, 2022.
